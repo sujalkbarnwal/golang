@@ -1,0 +1,1 @@
+Following the MVC (Model-View-Controller) pattern
